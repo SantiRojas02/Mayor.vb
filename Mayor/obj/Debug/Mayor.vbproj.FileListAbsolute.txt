@@ -1,0 +1,3 @@
+D:\Facultad\Programacion\Actividad 1\Mayor.vb\Mayor\Mayor\bin\Debug\Mayor.exe.config
+D:\Facultad\Programacion\Actividad 1\Mayor.vb\Mayor\Mayor\obj\Debug\Mayor.Resources.resources
+D:\Facultad\Programacion\Actividad 1\Mayor.vb\Mayor\Mayor\obj\Debug\Mayor.vbproj.GenerateResource.Cache
